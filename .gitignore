@@ -1,0 +1,11 @@
+trade_ai-bot-workspace/
+trade_starter-bots/
+trade_starter-bots/cryptotrader-starterbot-python/.idea
+trade_starter-bots/cryptotrader-starterbot-python/trade.py
+trade_training-datasets/
+interface.py
+test.py
+bonus/
+a.py
+bot.py
+
